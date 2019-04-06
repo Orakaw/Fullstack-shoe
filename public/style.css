@@ -1,0 +1,18 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+}
+img{
+  height: 200px;
+  float: left;
+  margin-left: 7%;
+}
+.sneakerHolder{
+  height: 206px;
+  width: 100%;
+  float: left;
+  border: 2px solid black;
+}
+.choice{
+  font-size:20px
+}

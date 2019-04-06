@@ -1,0 +1,28 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  height: 400px;
+}
+img:first-of-type{
+  width: 30%;
+  height: 174px;
+  float: left;
+  margin-left: 3%;
+}
+/* img:nth-of-type(2){
+  width: 30%;
+  height: 174px;
+  float: left; */
+
+.bottom{
+  height: 50px;
+  width: 100%;
+  border-top: 2px solid red;
+  float: left;
+}
+i{
+  color: red;
+  margin-left: 25%;
+  font-size: 40px;
+}
